@@ -1,0 +1,25 @@
+@charset "utf-8";
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: aquamarine;
+}
+#wrapper{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+form{
+    margin-top: 40px;
+}
+p{
+    color: red;
+}
+.color{
+    color: red;
+}
+img{
+    width: 18px;
+    height: 18px;
+}
